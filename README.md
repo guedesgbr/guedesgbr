@@ -8,12 +8,12 @@
  ⚡ Formada em SI na UNICAP<br>
  👩‍🎓 Mestranda em ciências da computação no CIn-UFPE<br>
 </div>
-
+<div align="center">
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=guedesgbr&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=guedesgbr&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=guedesgbr&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+</div>
 ---
 [![](https://visitcount.itsvg.in/api?id=guedesgbr&icon=0&color=0)](https://visitcount.itsvg.in)
 
