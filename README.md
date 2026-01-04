@@ -1,9 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
 
 ---
+# 📊 About Me:
 <div align="center">
-  
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px">  Ooi, sejam bem vindos ao meu GitHub!!!
+
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px">  Olá, sou o Gabriel!
  👩🏻‍💻 Sou uma desenvolvedora fullstack, criativa e apaixonada por tecnologia.<br>
  ⚡ Formada em SI na UNICAP<br>
  👩‍🎓 Mestranda em ciências da computação no CIn-UFPE<br>
@@ -14,7 +15,16 @@
 </div>
 
 ###
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=guedesgbr&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=guedesgbr&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=guedesgbr&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 🔝 Top Contribuições
+![](https://github-contributor-stats.vercel.app/api?username=guedesgbr&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 📊 Skills:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -48,8 +58,8 @@
 </div>
 
 ###
-<!-- Parte inferior da página -->
+###
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=guedesgbr.guedesgbr&left_color=slategrey&right_color=darkblue"  />
+</div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
