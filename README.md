@@ -3,7 +3,7 @@
 ---
 <div align="center">
   
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> width="24px"> Ooi, sejam bem vindos ao meu GitHub!!!
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px">  Ooi, sejam bem vindos ao meu GitHub!!!
  👩🏻‍💻 Sou uma desenvolvedora fullstack, criativa e apaixonada por tecnologia.<br>
  ⚡ Formada em SI na UNICAP<br>
  👩‍🎓 Mestranda em ciências da computação no CIn-UFPE<br>
