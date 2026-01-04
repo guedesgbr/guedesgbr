@@ -17,15 +17,6 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/larialbu/larialbu/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!--
-## 🏆 GitHub Trophies
-<div align="center"> 
-   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=larialbu&theme=onedark&no-frame=true&no-bg=true&margin-w=15"/>
-</div>
--->
-
----
-
 <!-- Parte inferior da página -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
