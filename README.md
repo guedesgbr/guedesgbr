@@ -1,4 +1,4 @@
-<!-- banner -->
+<img src = "https://github.com/guedesgbr/guedesgbr/blob/main/header.png?raw=true" width = "100%" alt = "header" align = "center" style="height: 420px;">
 <h1 align = "center"> <span>&nbsp;</span> 𝗪𝗲𝗹𝗰𝗼𝗺𝗲!!! </h1>
 <br>
 <br>
