@@ -4,7 +4,9 @@
 <br>
 
 ## About me
-Hello, My name is Gabriel Guedes. I'm in high school along with a technical course, and I'm focused on expanding my knowledge in a lot of areas of technology.
+Hello, my name is Gabriel Guedes. I am a high school student currently studying in a technical program. I have a strong interest in technology and innovation, and I am dedicated to expanding my knowledge in different areas such as front-end development, back-end development, video editing, and design.
+
+During my studies, I have been developing skills in programming, logical thinking, and problem-solving. I am always looking for new opportunities to improve my abilities and challenge myself academically and personally.
 <br>
 <h3 align = "center"> <span>&nbsp;</span> ⋆˚꩜｡ </h3>
 
