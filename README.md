@@ -4,7 +4,7 @@
 <br>
 
 ## About me
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Hello, My name is Gabriel Guedes. I'm in high school along with a technical course, and I'm focused on expanding my knowledge in a lot of areas of technology.
 <br>
 <h3 align = "center"> <span>&nbsp;</span> ⋆˚꩜｡ </h3>
 
